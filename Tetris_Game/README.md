@@ -116,3 +116,7 @@ This project implements a simplified version of the Tetris game. The main compon
 ## 👤 Author
 📛 **[Guido Ramella]**  
 📩 **[kujoj9129@gmail.com]**
+
+## 📄 License  
+This project is distributed under the **MIT License**.  
+
