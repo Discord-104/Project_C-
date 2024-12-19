@@ -114,7 +114,7 @@ This project implements a simplified version of the Tetris game. The main compon
 ---
 
 ## 👤 Author
-📛 **[Guido Ramella]**  
+📛 **[OraOtak]**  
 📩 **[kujoj9129@gmail.com]**
 
 ---
